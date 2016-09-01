@@ -1,4 +1,4 @@
-# 如何形成自己独立思维？
+# 如何形成自己独立思维?
 
 作者:caoglish
 链接:https://www.zhihu.com/question/22682147/answer/22293432
