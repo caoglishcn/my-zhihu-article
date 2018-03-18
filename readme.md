@@ -11,4 +11,4 @@
 
 
 ## 书评
-- [《赡养人类》书评](Boook/Shanyangrenlei.md)
+- [《赡养人类》书评](Book/Shanyangrenlei.md)
