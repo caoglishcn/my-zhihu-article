@@ -8,3 +8,7 @@
 - [富人的思考方式是什么](Thinking/How-rich-people-think.md)
 - [将「以结果为导向」作为人生态度和万事准则，可能会有哪些问题](Thinking/issue-of-end-oriented-thinking.md)
 - [每次刻意想要省钱，反而会花更多钱，是什么原因](Thinking/why-pay-more-when-think-save-money.md)
+
+
+## 书评
+- [《赡养人类》书评](Boook/Shanyangrenlei.md)
