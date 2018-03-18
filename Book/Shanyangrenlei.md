@@ -1,6 +1,6 @@
-###　如何评价刘慈欣的《赡养人类》？
+### 如何评价刘慈欣的《赡养人类》？
 
-作者：caoglish
+作者：caoglish <br>
 链接：https://www.zhihu.com/question/39741645/answer/122117546
 
 
