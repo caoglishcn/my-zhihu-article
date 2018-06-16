@@ -13,7 +13,7 @@
 ## 书评
 - [《赡养人类》书评](Book/Shanyangrenlei.md)
 
-##　计算机
+## 计算机
 
 - [计算机科班出身的优势是什么?](IT/advantage-from-degree-studied-programmer.md)
 - [读三年研究生毕业的计算机人才和本科直接毕业的计算机人才，差距是在哪些方面?](IT/difference-among-all-level-education.md)
