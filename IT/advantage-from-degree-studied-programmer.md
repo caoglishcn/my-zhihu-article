@@ -1,4 +1,4 @@
-### 计算机科班出身的优势是什么？
+# 计算机科班出身的优势是什么？
 
 作者：caoglish<br>
 链接：https://www.zhihu.com/question/57746751/answer/156239403
