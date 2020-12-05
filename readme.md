@@ -10,6 +10,7 @@
 - [每次刻意想要省钱，反而会花更多钱，是什么原因](Thinking/why-pay-more-when-think-save-money.md)
 - [为什么有人愿意花数倍的钱乘坐头等舱](Thinking/why-someone-prefer-paying-more-for-first-class.md)
 - [记忆力越来越差该如何改善](Thinking/How-to-improve-memory.md)
+- [人类突然发现自己就是宇宙的癌细胞你会怎么办](Thinking/if-human-find-out-that-human-is-cancer-to-cosmo.md)
 
 ## 社交类
 - [如何看待《奇葩说》储殷说：「结婚是大多数人的最理想选择是因为 55 岁之后需要照顾」遭到马东的反对](Social/bad-status-repeating-persuade.md)
