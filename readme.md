@@ -30,7 +30,7 @@
 
 ## 观点
 - [为什么美国位于最发达的国家之列，却有报道说普通美国家庭拿不出几百美元？](opinion/why-developed-country-like-US-has-family-who-can-not-take-500-dollar-quickly.md)
-- [如何看待全国人大代表黎霞建议离婚分割财产时对家暴者少分或不分](opinion\person-who-commit-domestic-violence-should-not-get-any-property.md)
+- [如何看待全国人大代表黎霞建议离婚分割财产时对家暴者少分或不分](opinion/person-who-commit-domestic-violence-should-not-get-any-property.md)
 
 ## 其他
 - [赛博朋克到底是什么意思？](Thinking/what-is-the-meaning-of-Cyberpunk.md)
