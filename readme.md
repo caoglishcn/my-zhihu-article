@@ -33,6 +33,7 @@
 - [如何看待全国人大代表黎霞建议离婚分割财产时对家暴者少分或不分](opinion/person-who-commit-domestic-violence-should-not-get-any-property.md)
 - [批判的同时一定要给出建设性意见吗](opinion/critising-with-suggestion.md)
 - [如果一种能量液体，能在五分钟内充满汽车并且续航达到600多公里，是不是新能源电动车就毫无优势了？](Thinking\why-new-energy-car.md)
+- [如何在日常生活中培养应付突发事件的能力？](opinion/how-to-prepare-emergency-event.md)
 
 ## 其他
 - [赛博朋克到底是什么意思？](Thinking/what-is-the-meaning-of-Cyberpunk.md)
